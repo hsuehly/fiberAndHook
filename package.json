@@ -1,0 +1,17 @@
+{
+  "name": "fiber-hook",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0-alpha-19092ac8c-20210803",
+    "react-dom": "^18.0.0-alpha-19092ac8c-20210803"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "vite": "^2.4.4"
+  }
+}
